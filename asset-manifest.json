@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vBusinessCard_devCorey/static/css/main.91640742.css",
+    "main.js": "/vBusinessCard_devCorey/static/js/main.91c68af8.js",
+    "index.html": "/vBusinessCard_devCorey/index.html",
+    "main.91640742.css.map": "/vBusinessCard_devCorey/static/css/main.91640742.css.map",
+    "main.91c68af8.js.map": "/vBusinessCard_devCorey/static/js/main.91c68af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91640742.css",
+    "static/js/main.91c68af8.js"
+  ]
+}
